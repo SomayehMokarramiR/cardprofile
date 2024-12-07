@@ -74,6 +74,12 @@ const skills = [
     level: "advanced",
     color: "#EFD81D",
   },
+
+  {
+    skill: "TypeScript",
+    level: "beginner",
+    color: "#FF3B00",
+  },
   {
     skill: "Web Design",
     level: "advanced",
@@ -85,14 +91,14 @@ const skills = [
     color: "#E84F33",
   },
   {
-    skill: "React",
-    level: "advanced",
-    color: "#60DAFB",
+    skill: "Next.js",
+    level: "intermediate",
+    color: "#FF3B00",
   },
   {
-    skill: "Next",
-    level: "beginner",
-    color: "#FF3B00",
+    skill: "React.js",
+    level: "advanced",
+    color: "#60DAFB",
   },
 ];
 
